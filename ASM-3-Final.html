@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>F1</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/OBJLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lil-gui@0.17"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/RGBELoader.js"></script>
+
+
+    <script>
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.shadowMap.enabled = true;
+        document.body.appendChild(renderer.domElement);
+
+        const scene = new THREE.Scene();
+        scene.background = new THREE.Color(0x202020);
+
+        // Camera
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        camera.position.set(10, 20, 30);
+        const controls = new THREE.OrbitControls(camera, renderer.domElement);
+
+        // Lights
+        const ambient = new THREE.AmbientLight(0x404040, 1);
+        scene.add(ambient);
+
+        const dirLight = new THREE.DirectionalLight(0xffffff, 2);
+        dirLight.position.set(5, 5, 5);
+        dirLight.castShadow = true;
+        scene.add(dirLight);
+
+        // const floor = new THREE.Mesh(
+        //     new THREE.PlaneGeometry(10, 10),
+        //     new THREE.MeshStandardMaterial({ color: 0x555555, roughness: 0.8, metalness: 0.1 })
+        // );
+        // floor.rotation.x = -Math.PI / 2;
+        // floor.receiveShadow = true;
+        // scene.add(floor);
+
+        // Texture loader
+        const texLoader = new THREE.TextureLoader();
+        const texList = [
+            texLoader.load("https://lnwn4tt.github.io/Com-graph_HW3/mcl35m_c_png_baseColor.png"),
+            texLoader.load("https://lnwn4tt.github.io/Com-graph_HW3/mcl35m_h_png_baseColor.png"),
+            texLoader.load("https://lnwn4tt.github.io/Com-graph_HW3/mcl35m_m_png_baseColor.png"),
+            texLoader.load("https://lnwn4tt.github.io/Com-graph_HW3/mcl35m_png_baseColor.png"),
+            texLoader.load("https://lnwn4tt.github.io/Com-graph_HW3/st_wheel_png_baseColor.png"),
+            texLoader.load("https://lnwn4tt.github.io/Com-graph_HW3/tread_png_baseColor.png"),
+            texLoader.load("https://lnwn4tt.github.io/Com-graph_HW3/tyrewall_png_baseColor.png")
+        ];
+
+        // Load OBJ with PBR shader
+        const loader = new THREE.OBJLoader();
+        loader.load("https://lnwn4tt.github.io/Com-graph_HW3/f1.obj", (object) => {
+            let i = 0;
+            object.traverse((child) => {
+                if (child.isMesh) {
+                    child.castShadow = true;
+                    child.receiveShadow = true;
+
+                    child.material = new THREE.MeshStandardMaterial({
+                        map: texList[i % texList.length],
+                        metalness: 0.5,
+                        roughness: 0.5
+                    });
+
+                    i++;
+                }
+            });
+            object.scale.set(5, 5, 5);
+            scene.add(object);
+        });
+        loader.load("https://lnwn4tt.github.io/Com-graph_HW3/city_2.obj", (object_2) => {
+            let i = 0;
+            object_2.traverse((child) => {
+                if (child.isMesh) {
+                    child.castShadow = true;
+                    child.receiveShadow = true;
+
+                    child.material = new THREE.MeshStandardMaterial({
+                        map: texList[i % texList.length],
+                        metalness: 0.5,
+                        roughness: 0.5
+                    });
+
+                    i++;
+                }
+            });
+
+            scene.add(object_2);
+        });
+
+        // GUI controls
+        const gui = new lil.GUI();
+        //const lightFolder = gui.addFolder("Light"); เอาไว้แยก folder
+        gui.add(dirLight.position, "x", -10, 10);
+        gui.add(dirLight.position, "y", 0, 10);
+        gui.add(dirLight.position, "z", -10, 10);
+
+        const matParams = { metalness: 0.5, roughness: 0.5 };
+        gui.add(matParams, "metalness", 0, 1).onChange(v => {
+            scene.traverse(obj => {
+                if (obj.isMesh && obj.material.isMeshStandardMaterial) obj.material.metalness = v;
+            });
+        });
+        gui.add(matParams, "roughness", 0, 1).onChange(v => {
+            scene.traverse(obj => {
+                if (obj.isMesh && obj.material.isMeshStandardMaterial) obj.material.roughness = v;
+            });
+        });
+
+        const pmremGenerator = new THREE.PMREMGenerator(renderer);
+        pmremGenerator.compileEquirectangularShader();
+
+        new THREE.RGBELoader()
+            .load('https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/golden_bay_1k.hdr', function (hdrEquirect) {
+                const envMap = pmremGenerator.fromEquirectangular(hdrEquirect).texture;
+                scene.background = envMap;
+                scene.environment = envMap;
+
+                hdrEquirect.dispose();
+                pmremGenerator.dispose();
+            });
+
+
+        // Animate
+        function animate() {
+            renderer.render(scene, camera);
+            requestAnimationFrame(animate);
+        }
+        animate();
+    </script>
+</body>
+
+</html>

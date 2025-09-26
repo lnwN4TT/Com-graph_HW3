@@ -9,7 +9,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/Merged_materials_baseColor.png
+map_Kd textures/Merged_materials_baseColor.png
 
 newmtl material_36.001
 Ns 0.000000
@@ -19,7 +19,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_baseColor.png
+map_Kd textures/material_36_baseColor.png
 
 newmtl material_36_0.001
 Ns 0.000000
@@ -29,7 +29,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_0_baseColor.png
+map_Kd textures/material_36_0_baseColor.png
 
 newmtl material_36_1.001
 Ns 0.000000
@@ -39,7 +39,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_1_baseColor.png
+map_Kd textures/material_36_1_baseColor.png
 
 newmtl material_36_10.001
 Ns 0.000000
@@ -49,7 +49,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_10_baseColor.png
+map_Kd textures/material_36_10_baseColor.png
 
 newmtl material_36_11.001
 Ns 0.000000
@@ -59,7 +59,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_11_baseColor.png
+map_Kd textures/material_36_11_baseColor.png
 
 newmtl material_36_12.001
 Ns 0.000000
@@ -69,7 +69,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_12_baseColor.png
+map_Kd textures/material_36_12_baseColor.png
 
 newmtl material_36_13.001
 Ns 0.000000
@@ -79,7 +79,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_13_baseColor.png
+map_Kd textures/material_36_13_baseColor.png
 
 newmtl material_36_14.001
 Ns 0.000000
@@ -89,7 +89,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_14_baseColor.png
+map_Kd textures/material_36_14_baseColor.png
 
 newmtl material_36_15.001
 Ns 0.000000
@@ -99,7 +99,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_15_baseColor.png
+map_Kd textures/material_36_15_baseColor.png
 
 newmtl material_36_16.001
 Ns 0.000000
@@ -109,7 +109,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_16_baseColor.png
+map_Kd textures/material_36_16_baseColor.png
 
 newmtl material_36_17.001
 Ns 0.000000
@@ -119,7 +119,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_17_baseColor.png
+map_Kd textures/material_36_17_baseColor.png
 
 newmtl material_36_18.001
 Ns 0.000000
@@ -129,7 +129,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_18_baseColor.png
+map_Kd textures/material_36_18_baseColor.png
 
 newmtl material_36_19.001
 Ns 0.000000
@@ -139,7 +139,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_19_baseColor.png
+map_Kd textures/material_36_19_baseColor.png
 
 newmtl material_36_2.001
 Ns 0.000000
@@ -149,7 +149,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_2_baseColor.png
+map_Kd textures/material_36_2_baseColor.png
 
 newmtl material_36_20.001
 Ns 0.000000
@@ -159,7 +159,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_20_baseColor.png
+map_Kd textures/material_36_20_baseColor.png
 
 newmtl material_36_21.001
 Ns 0.000000
@@ -169,7 +169,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_21_baseColor.png
+map_Kd textures/material_36_21_baseColor.png
 
 newmtl material_36_22.001
 Ns 0.000000
@@ -179,7 +179,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_22_baseColor.png
+map_Kd textures/material_36_22_baseColor.png
 
 newmtl material_36_23.001
 Ns 0.000000
@@ -189,7 +189,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_23_baseColor.png
+map_Kd textures/material_36_23_baseColor.png
 
 newmtl material_36_24.001
 Ns 0.000000
@@ -199,7 +199,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_24_baseColor.png
+map_Kd textures/material_36_24_baseColor.png
 
 newmtl material_36_25.001
 Ns 0.000000
@@ -209,7 +209,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_25_baseColor.png
+map_Kd textures/material_36_25_baseColor.png
 
 newmtl material_36_26.001
 Ns 0.000000
@@ -219,7 +219,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_26_baseColor.png
+map_Kd textures/material_36_26_baseColor.png
 
 newmtl material_36_27.001
 Ns 0.000000
@@ -229,7 +229,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_27_baseColor.png
+map_Kd textures/material_36_27_baseColor.png
 
 newmtl material_36_28.001
 Ns 0.000000
@@ -239,7 +239,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_28_baseColor.png
+map_Kd textures/material_36_28_baseColor.png
 
 newmtl material_36_29.001
 Ns 0.000000
@@ -249,7 +249,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_29_baseColor.png
+map_Kd textures/material_36_29_baseColor.png
 
 newmtl material_36_3.001
 Ns 0.000000
@@ -259,7 +259,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_3_baseColor.png
+map_Kd textures/material_36_3_baseColor.png
 
 newmtl material_36_30.001
 Ns 0.000000
@@ -269,7 +269,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_30_baseColor.png
+map_Kd textures/material_36_30_baseColor.png
 
 newmtl material_36_31.001
 Ns 0.000000
@@ -279,7 +279,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_31_baseColor.png
+map_Kd textures/material_36_31_baseColor.png
 
 newmtl material_36_32.001
 Ns 0.000000
@@ -289,7 +289,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_32_baseColor.png
+map_Kd textures/material_36_32_baseColor.png
 
 newmtl material_36_33.001
 Ns 0.000000
@@ -299,7 +299,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_33_baseColor.png
+map_Kd textures/material_36_33_baseColor.png
 
 newmtl material_36_34.001
 Ns 0.000000
@@ -309,7 +309,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_34_baseColor.png
+map_Kd textures/material_36_34_baseColor.png
 
 newmtl material_36_35.001
 Ns 0.000000
@@ -319,7 +319,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_35_baseColor.png
+map_Kd textures/material_36_35_baseColor.png
 
 newmtl material_36_36.001
 Ns 0.000000
@@ -329,7 +329,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_36_baseColor.png
+map_Kd textures/material_36_36_baseColor.png
 
 newmtl material_36_37.001
 Ns 0.000000
@@ -339,7 +339,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_37_baseColor.png
+map_Kd textures/material_36_37_baseColor.png
 
 newmtl material_36_38.001
 Ns 0.000000
@@ -349,7 +349,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_38_baseColor.png
+map_Kd textures/material_36_38_baseColor.png
 
 newmtl material_36_39.001
 Ns 0.000000
@@ -359,7 +359,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_39_baseColor.png
+map_Kd textures/material_36_39_baseColor.png
 
 newmtl material_36_4.001
 Ns 0.000000
@@ -369,7 +369,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_4_baseColor.png
+map_Kd textures/material_36_4_baseColor.png
 
 newmtl material_36_40.001
 Ns 0.000000
@@ -379,7 +379,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_40_baseColor.png
+map_Kd textures/material_36_40_baseColor.png
 
 newmtl material_36_41.001
 Ns 0.000000
@@ -389,7 +389,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_41_baseColor.png
+map_Kd textures/material_36_41_baseColor.png
 
 newmtl material_36_42.001
 Ns 0.000000
@@ -399,7 +399,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_42_baseColor.png
+map_Kd textures/material_36_42_baseColor.png
 
 newmtl material_36_43.001
 Ns 0.000000
@@ -409,7 +409,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_43_baseColor.png
+map_Kd textures/material_36_43_baseColor.png
 
 newmtl material_36_44.001
 Ns 0.000000
@@ -419,7 +419,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_44_baseColor.png
+map_Kd textures/material_36_44_baseColor.png
 
 newmtl material_36_45.001
 Ns 0.000000
@@ -429,7 +429,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_45_baseColor.png
+map_Kd textures/material_36_45_baseColor.png
 
 newmtl material_36_46.001
 Ns 0.000000
@@ -439,7 +439,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_46_baseColor.png
+map_Kd textures/material_36_46_baseColor.png
 
 newmtl material_36_47.001
 Ns 0.000000
@@ -449,7 +449,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_47_baseColor.png
+map_Kd textures/material_36_47_baseColor.png
 
 newmtl material_36_48.001
 Ns 0.000000
@@ -459,7 +459,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_48_baseColor.png
+map_Kd textures/material_36_48_baseColor.png
 
 newmtl material_36_49.001
 Ns 0.000000
@@ -469,7 +469,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_49_baseColor.png
+map_Kd textures/material_36_49_baseColor.png
 
 newmtl material_36_5.001
 Ns 0.000000
@@ -479,7 +479,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_5_baseColor.png
+map_Kd textures/material_36_5_baseColor.png
 
 newmtl material_36_50.001
 Ns 0.000000
@@ -489,7 +489,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_50_baseColor.png
+map_Kd textures/material_36_50_baseColor.png
 
 newmtl material_36_51.001
 Ns 0.000000
@@ -499,7 +499,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_51_baseColor.png
+map_Kd textures/material_36_51_baseColor.png
 
 newmtl material_36_52.001
 Ns 0.000000
@@ -509,7 +509,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_52_baseColor.png
+map_Kd textures/material_36_52_baseColor.png
 
 newmtl material_36_53.001
 Ns 0.000000
@@ -519,7 +519,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_53_baseColor.png
+map_Kd textures/material_36_53_baseColor.png
 
 newmtl material_36_54.001
 Ns 0.000000
@@ -529,7 +529,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_54_baseColor.png
+map_Kd textures/material_36_54_baseColor.png
 
 newmtl material_36_55.001
 Ns 0.000000
@@ -539,7 +539,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_55_baseColor.png
+map_Kd textures/material_36_55_baseColor.png
 
 newmtl material_36_56.001
 Ns 0.000000
@@ -549,7 +549,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_56_baseColor.png
+map_Kd textures/material_36_56_baseColor.png
 
 newmtl material_36_57.001
 Ns 0.000000
@@ -559,7 +559,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_57_baseColor.png
+map_Kd textures/material_36_57_baseColor.png
 
 newmtl material_36_58.001
 Ns 0.000000
@@ -569,7 +569,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_58_baseColor.png
+map_Kd textures/material_36_58_baseColor.png
 
 newmtl material_36_59.001
 Ns 0.000000
@@ -579,7 +579,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_59_baseColor.png
+map_Kd textures/material_36_59_baseColor.png
 
 newmtl material_36_6.001
 Ns 0.000000
@@ -589,7 +589,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_6_baseColor.png
+map_Kd textures/material_36_6_baseColor.png
 
 newmtl material_36_60.001
 Ns 0.000000
@@ -599,7 +599,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_60_baseColor.png
+map_Kd textures/material_36_60_baseColor.png
 
 newmtl material_36_61.001
 Ns 0.000000
@@ -609,7 +609,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_61_baseColor.png
+map_Kd textures/material_36_61_baseColor.png
 
 newmtl material_36_62.001
 Ns 0.000000
@@ -619,7 +619,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_62_baseColor.png
+map_Kd textures/material_36_62_baseColor.png
 
 newmtl material_36_63.001
 Ns 0.000000
@@ -629,7 +629,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_63_baseColor.png
+map_Kd textures/material_36_63_baseColor.png
 
 newmtl material_36_64.001
 Ns 0.000000
@@ -639,7 +639,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_64_baseColor.png
+map_Kd textures/material_36_64_baseColor.png
 
 newmtl material_36_65.001
 Ns 0.000000
@@ -649,7 +649,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_65_baseColor.png
+map_Kd textures/material_36_65_baseColor.png
 
 newmtl material_36_66.001
 Ns 0.000000
@@ -659,7 +659,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_66_baseColor.png
+map_Kd textures/material_36_66_baseColor.png
 
 newmtl material_36_67.001
 Ns 0.000000
@@ -669,7 +669,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_67_baseColor.png
+map_Kd textures/material_36_67_baseColor.png
 
 newmtl material_36_68.001
 Ns 0.000000
@@ -679,7 +679,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_68_baseColor.png
+map_Kd textures/material_36_68_baseColor.png
 
 newmtl material_36_69.001
 Ns 0.000000
@@ -689,7 +689,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_69_baseColor.png
+map_Kd textures/material_36_69_baseColor.png
 
 newmtl material_36_7.001
 Ns 0.000000
@@ -699,7 +699,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_7_baseColor.png
+map_Kd textures/material_36_7_baseColor.png
 
 newmtl material_36_70.001
 Ns 0.000000
@@ -709,7 +709,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_70_baseColor.png
+map_Kd textures/material_36_70_baseColor.png
 
 newmtl material_36_71.001
 Ns 0.000000
@@ -719,7 +719,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_71_baseColor.png
+map_Kd textures/material_36_71_baseColor.png
 
 newmtl material_36_72.001
 Ns 0.000000
@@ -729,7 +729,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_72_baseColor.png
+map_Kd textures/material_36_72_baseColor.png
 
 newmtl material_36_73.001
 Ns 0.000000
@@ -739,7 +739,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_73_baseColor.png
+map_Kd textures/material_36_73_baseColor.png
 
 newmtl material_36_74.001
 Ns 0.000000
@@ -749,7 +749,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_74_baseColor.png
+map_Kd textures/material_36_74_baseColor.png
 
 newmtl material_36_75.001
 Ns 0.000000
@@ -759,7 +759,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_75_baseColor.png
+map_Kd textures/material_36_75_baseColor.png
 
 newmtl material_36_76.001
 Ns 0.000000
@@ -769,7 +769,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_76_baseColor.png
+map_Kd textures/material_36_76_baseColor.png
 
 newmtl material_36_77.001
 Ns 0.000000
@@ -779,7 +779,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_77_baseColor.jpeg
+map_Kd textures/material_36_77_baseColor.jpeg
 
 newmtl material_36_78.001
 Ns 0.000000
@@ -789,7 +789,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_78_baseColor.png
+map_Kd textures/material_36_78_baseColor.png
 
 newmtl material_36_79.001
 Ns 0.000000
@@ -799,7 +799,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_79_baseColor.png
+map_Kd textures/material_36_79_baseColor.png
 
 newmtl material_36_8.001
 Ns 0.000000
@@ -809,7 +809,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_8_baseColor.png
+map_Kd textures/material_36_8_baseColor.png
 
 newmtl material_36_80.001
 Ns 0.000000
@@ -819,7 +819,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_80_baseColor.png
+map_Kd textures/material_36_80_baseColor.png
 
 newmtl material_36_81.001
 Ns 0.000000
@@ -829,7 +829,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_81_baseColor.png
+map_Kd textures/material_36_81_baseColor.png
 
 newmtl material_36_82.001
 Ns 0.000000
@@ -839,7 +839,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_82_baseColor.png
+map_Kd textures/material_36_82_baseColor.png
 
 newmtl material_36_83.001
 Ns 0.000000
@@ -849,7 +849,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_83_baseColor.png
+map_Kd textures/material_36_83_baseColor.png
 
 newmtl material_36_84.001
 Ns 0.000000
@@ -859,7 +859,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_84_baseColor.png
+map_Kd textures/material_36_84_baseColor.png
 
 newmtl material_36_85.001
 Ns 0.000000
@@ -869,7 +869,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_85_baseColor.png
+map_Kd textures/material_36_85_baseColor.png
 
 newmtl material_36_86.001
 Ns 0.000000
@@ -879,7 +879,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_86_baseColor.png
+map_Kd textures/material_36_86_baseColor.png
 
 newmtl material_36_87.001
 Ns 0.000000
@@ -889,7 +889,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_87_baseColor.png
+map_Kd textures/material_36_87_baseColor.png
 
 newmtl material_36_88.001
 Ns 0.000000
@@ -899,7 +899,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_88_baseColor.png
+map_Kd textures/material_36_88_baseColor.png
 
 newmtl material_36_89.001
 Ns 0.000000
@@ -909,7 +909,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_89_baseColor.png
+map_Kd textures/material_36_89_baseColor.png
 
 newmtl material_36_9.001
 Ns 0.000000
@@ -919,7 +919,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_9_baseColor.png
+map_Kd textures/material_36_9_baseColor.png
 
 newmtl material_36_90.001
 Ns 0.000000
@@ -929,7 +929,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_90_baseColor.png
+map_Kd textures/material_36_90_baseColor.png
 
 newmtl material_36_91.001
 Ns 0.000000
@@ -939,7 +939,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_91_baseColor.png
+map_Kd textures/material_36_91_baseColor.png
 
 newmtl material_36_92.001
 Ns 0.000000
@@ -949,7 +949,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_92_baseColor.png
+map_Kd textures/material_36_92_baseColor.png
 
 newmtl material_36_93.001
 Ns 0.000000
@@ -959,7 +959,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_93_baseColor.png
+map_Kd textures/material_36_93_baseColor.png
 
 newmtl material_36_94.001
 Ns 0.000000
@@ -969,7 +969,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_94_baseColor.png
+map_Kd textures/material_36_94_baseColor.png
 
 newmtl material_36_95.001
 Ns 0.000000
@@ -979,7 +979,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_95_baseColor.png
+map_Kd textures/material_36_95_baseColor.png
 
 newmtl material_36_96.001
 Ns 0.000000
@@ -989,7 +989,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_96_baseColor.png
+map_Kd textures/material_36_96_baseColor.png
 
 newmtl material_36_97.001
 Ns 0.000000
@@ -999,4 +999,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/material_36_97_baseColor.png
+map_Kd textures/material_36_97_baseColor.png

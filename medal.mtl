@@ -9,8 +9,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/csgo_gold_coin_baseColor.png
-map_Bump -bm 1.000000 C:/csgo_gold_coin_normal.png
+map_Kd textures/csgo_gold_coin_baseColor.png
+map_Bump -bm 1.000000 textures/csgo_gold_coin_normal.png
 
 newmtl csgo_gold_coin_holo
 Ns 250.000000
@@ -20,8 +20,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/csgo_gold_coin_holo_baseColor.png
-map_Bump -bm 1.000000 C:/csgo_gold_coin_holo_normal.png
+map_Kd textures/csgo_gold_coin_holo_baseColor.png
+map_Bump -bm 1.000000 textures/csgo_gold_coin_holo_normal.png
 
 newmtl csgo_gold_coin_text
 Ns 250.000000
@@ -31,5 +31,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/csgo_gold_coin_text_baseColor.png
-map_Bump -bm 1.000000 C:/csgo_gold_coin_text_normal.png
+map_Kd textures/csgo_gold_coin_text_baseColor.png
+map_Bump -bm 1.000000 textures/csgo_gold_coin_text_normal.png

@@ -69,7 +69,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/tm_elite_head_variantE_baseColor.png
+map_Kd textures/tm_elite_head_variantE_baseColor.png
 
 newmtl tm_elite_head_variantE.001
 Ns 41.733150
@@ -99,7 +99,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/tm_leet_v2_lower_body_variantD_baseColor.png
+map_Kd textures/tm_leet_v2_lower_body_variantD_baseColor.png
 
 newmtl tm_leet_v2_lower_body_variantD.001
 Ns 23.282373
@@ -109,7 +109,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/tm_leet_v2_lower_body_variantD.001_baseColor.png
+map_Kd textures/tm_leet_v2_lower_body_variantD.001_baseColor.png
 
 newmtl tm_leet_v2_lower_body_variantD.002
 Ns 23.282373
@@ -119,7 +119,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/tm_leet_v2_lower_body_variantD.001_baseColor.png
+map_Kd textures/tm_leet_v2_lower_body_variantD.001_baseColor.png
 
 newmtl tm_leet_v2_lower_body_variantD.003
 Ns 27.826263
@@ -129,7 +129,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/tm_leet_v2_lower_body_variantD_baseColor.png
+map_Kd textures/tm_leet_v2_lower_body_variantD_baseColor.png
 
 newmtl tm_leet_v2_lower_body_variantD.004
 Ns 23.282373
@@ -139,7 +139,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/tm_leet_v2_lower_body_variantD.001_baseColor.png
+map_Kd textures/tm_leet_v2_lower_body_variantD.001_baseColor.png
 
 newmtl tm_leet_v2_lower_body_variantD.005
 Ns 27.826263
@@ -149,7 +149,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/tm_leet_v2_lower_body_variantD_baseColor.png
+map_Kd textures/tm_leet_v2_lower_body_variantD_baseColor.png
 
 newmtl tm_leet_v2_lower_body_variantD.007
 Ns 27.826263
@@ -159,7 +159,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/tm_leet_v2_lower_body_variantD_baseColor.png
+map_Kd textures/tm_leet_v2_lower_body_variantD_baseColor.png
 
 newmtl w_model_leet_arms_133.001
 Ns 0.958257
